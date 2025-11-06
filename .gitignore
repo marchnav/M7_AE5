@@ -1,0 +1,19 @@
+﻿# Entorno / editor
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
+
+# Bases de datos locales
+*.sqlite3
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Archivos de build/static locales
+staticfiles/
+media/
