@@ -218,4 +218,5 @@ Checklist de seguridad antes de subir
 - [ ] Backups si se requiere.
 
 Licencia
-Uso académico/educacional. Ajusta según tus necesidades.
+Uso académico/educacional. 
+
